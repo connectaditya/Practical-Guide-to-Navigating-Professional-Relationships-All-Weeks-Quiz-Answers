@@ -49,6 +49,8 @@ Creative Problem Solving
 Coachability
 Communication
 
+Some other quiz and programming solutions
+
 <a href="https://www.chase2learn.com/hackerrank-java-programming-solutions/">HackerRank Java Programming Solutions</a>
 
 <a href="https://www.chase2learn.com/hackerrank-linux-shell-solutions/">HackerRank Linux Shell Solutions</a>
